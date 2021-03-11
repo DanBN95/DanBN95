@@ -1,4 +1,4 @@
-### <center>Hi there 👋 </center>
+### &nbsp&nbsp&nbsp&nbsp Hi there 👋&nbsp&nbsp&nbsp 
 <h1 style="text-align:center">This is heading 1</h1>
 <!--
 [![Header](https://media.giphy.com/media/gFhZjOtzoutSvckWPM/giphy.gif = 250x250)](https://www.adamalston.com/) -->
