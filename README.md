@@ -1,4 +1,5 @@
 ### <center>Hi there 👋 </center>
+<h1 style="text-align:center">This is heading 1</h1>
 <!--
 [![Header](https://media.giphy.com/media/gFhZjOtzoutSvckWPM/giphy.gif = 250x250)](https://www.adamalston.com/) -->
 <img width="850" height="120" alt="portfolio_view" src="https://media.giphy.com/media/gFhZjOtzoutSvckWPM/giphy.gif">
