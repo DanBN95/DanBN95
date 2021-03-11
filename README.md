@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header](https://media.giphy.com/media/gFhZjOtzoutSvckWPM/giphy.gif)](https://www.adamalston.com/)
+[![Header](https://media.giphy.com/media/gFhZjOtzoutSvckWPM/giphy.gif = 250x250)](https://www.adamalston.com/)
 <!--
 **DanBN95/DanBN95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
