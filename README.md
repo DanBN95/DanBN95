@@ -6,6 +6,8 @@
 ### Languages
 
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/DanBN95/Anomaly-Detector)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/DanBN95/Linux---Testing-System)
 
 Here are some ideas to get you started:
 
