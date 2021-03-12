@@ -8,7 +8,8 @@
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/DanBN95/Anomaly-Detector)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/DanBN95/Linux---Testing-System)
-
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)](https://github.com/DanBN95/SQLBasic)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
