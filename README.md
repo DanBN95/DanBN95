@@ -41,6 +41,7 @@ company.
 </ul>
 
 ### 📫 How to reach me: 
+- [![Linkedin](https://github.com/DanBN95/DanBN95/blob/main/linkedin.png)](https://www.linkedin.com/in/dan-ben-natan-603164200/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
