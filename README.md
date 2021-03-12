@@ -6,8 +6,9 @@
 <!--
 **DanBN95/DanBN95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](file:///C:/Users/User/Desktop/Dan/avatr.html.jpeg)
+### Languages
+
+[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/DanBN95/Anomaly-Detector)
 
 Here are some ideas to get you started:
 
