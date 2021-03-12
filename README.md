@@ -25,7 +25,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 <br>
-(__Advanced level__)&nbsp;&nbsp;&nbsp;&nbsp;(__Basic level__)&nbsp;&nbsp;&nbsp;&nbsp;(__Advanced level__)&nbsp;&nbsp;&nbsp;&nbsp;(__Study On-Going__)
+(Advanced level)&nbsp;&nbsp;&nbsp;&nbsp;(Basic level)&nbsp;&nbsp;&nbsp;&nbsp;(__Advanced level__)&nbsp;&nbsp;&nbsp;&nbsp;(__Study On-Going__)
 
 ### ABOUT ME <p style="font-size:100px">&#128513;</p>
 - 🔭 **COMPUTER SCIENCE STUDENT 2nd year** -------> <a href ="https://drive.google.com/file/d/1kAETmFgxAmOAhE8BbVj_eWwbrdCRjFq3/view?usp=sharing"> check my Resume <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji> </a> 
