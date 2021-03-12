@@ -42,7 +42,5 @@ company.
 
 ### 📫 How to reach me: 
 - [![Linkedin](https://s2.aconvert.com/convert/p3r68-cdx67/au9qt-11xv0-002.ico)](https://www.linkedin.com/in/dan-ben-natan-603164200/)
-- <g-emoji class="g-emoji" alias="incoming_envelope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e8.png">📨</g-emoji>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <g-emoji class="g-emoji" alias="incoming_envelope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e8.png">📨</g-emoji>L dbn290895@gmail.com
+
