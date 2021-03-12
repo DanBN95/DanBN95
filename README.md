@@ -5,7 +5,7 @@
 <img width="850" height="120" alt="portfolio_view" src="https://media.giphy.com/media/gFhZjOtzoutSvckWPM/giphy.gif">
 <!--
 **DanBN95/DanBN95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<br><br><br><br><br><br><br><br><br><br>
 ### Languages
 
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/DanBN95/Anomaly-Detector)
