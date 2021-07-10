@@ -16,6 +16,8 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/DanBN95/BudgetApp/blob/main/app.js)
 &nbsp;&nbsp;&nbsp;&nbsp;
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png)](https://github.com/DanBN95/NodeJSUdemy)
 
 ### Technologies
 
