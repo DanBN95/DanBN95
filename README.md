@@ -32,7 +32,7 @@
 (__Advanced)&nbsp;&nbsp;&nbsp;&nbsp;(Basic)&nbsp;&nbsp;&nbsp;&nbsp;(Advanced)&nbsp;&nbsp;&nbsp;&nbsp;(Study On-Going__)
 
 ### ABOUT ME <p style="font-size:100px">&#128513;</p>
-- 🔭 **COMPUTER SCIENCE STUDENT 2nd year** -------> <a href ="https://drive.google.com/file/d/1kAETmFgxAmOAhE8BbVj_eWwbrdCRjFq3/view?usp=sharing"> check my Resume <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji> </a> 
+- 🔭 **COMPUTER SCIENCE STUDENT 2nd year** -------> <a href ="https://drive.google.com/drive/u/0/my-drive"> check my Resume <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji> </a> 
 - 🌱 Ambitious and Auto Didact,passionate to learn new stuff and expand my knowledge 
 - 👯 Looking for a role as software engineer that will allow me to
 further my knowledge and skills as well as increased responsibility in an innovative
@@ -45,6 +45,6 @@ company.
 </ul>
 
 ### 📫 How to reach me: 
-- [![Linkedin](https://s2.aconvert.com/convert/p3r68-cdx67/au9qt-11xv0-002.ico)](https://www.linkedin.com/in/dan-ben-natan-603164200/)
+- [![Linkedin](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/dan-ben-natan-603164200/)
 - <g-emoji class="g-emoji" alias="incoming_envelope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e8.png">📨</g-emoji> dbn290895@gmail.com
 
